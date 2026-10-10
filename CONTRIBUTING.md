@@ -104,7 +104,7 @@ References PhD Glava: <chapter_number>
 
 Closes #<issue>
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+Author: Dmitrii Fedorov (@dmitrii-f-t27)
 ```
 
 ### Types
@@ -148,7 +148,7 @@ References PhD Glava 36: Holographic brain theorem.
 
 Closes #78
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+Author: Dmitrii Fedorov (@dmitrii-f-t27)
 ```
 
 ```
@@ -161,7 +161,7 @@ References PhD Glava 31: Three-valued belief states.
 
 Closes #82
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+Author: Dmitrii Fedorov (@dmitrii-f-t27)
 ```
 
 ---

@@ -957,7 +957,7 @@ Detailed description explaining the change.
 
 Closes #<issue>
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+Author: Dmitrii Fedorov (@dmitrii-f-t27)
 ```
 
 Types: `feat`, `fix`, `docs`, `refactor`, `test`, `perf`, `clara`
